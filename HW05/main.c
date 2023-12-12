@@ -17,7 +17,7 @@ void Task01(void){
     }
 
     corn = pow(2, cell-1);
-    printf("corn = %d\n", corn);
+    printf("corn = %llu\n", corn);
 }
 
 int Nod(int a, int b){
